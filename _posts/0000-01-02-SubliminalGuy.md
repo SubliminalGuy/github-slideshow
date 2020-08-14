@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+<p>Chuck Norris can pull a commit to every Master branch he likes</p>
 Use the left arrow to go back!
